@@ -89,14 +89,6 @@ How to Use
 
 
 
-Future Improvements
-
-Add Customer Lifetime Value (CLV) analysis.
-
-Integrate Forecasting to predict future sales trends.
-
-Add KPI alerts for rapid decision-making.
-
 
 Author
 
